@@ -15,8 +15,11 @@
   "devDependencies": {
     "@commitlint/cli": "^17.0.0",
     "@commitlint/config-conventional": "^17.0.0",
-    "@developer-plus/eslint-config": "^0.1.0",
+    "@developer-plus/eslint-config": "0.1.1",
+    "@iconify-json/carbon": "^1.1.4",
+    "@nuxtjs/color-mode": "^3.0.3",
     "@unocss/nuxt": "^0.33.5",
+    "@vueuse/nuxt": "^8.5.0",
     "eslint": "^8.15.0",
     "husky": "^8.0.1",
     "lint-staged": "^12.4.1",
